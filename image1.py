@@ -1,6 +1,6 @@
 # pikachu
 Basic skills in PYTHON
-print('''へ　　　　　／|
+print('''へ　　　／|
 　　/＼7　　　 ∠＿/
 　 /　│　　 ／　／
 　│　Z ＿,＜　／　　 /`ヽ
